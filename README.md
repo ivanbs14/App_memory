@@ -9,16 +9,6 @@ Você pode interagir com o deploy do projeto <br>
 <a href="">CLICANDO AQUI!</a>
 </p> -->
 
-<p align="center">
-  
-  <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-clone-e-acesse-o-projeto">Acesse repositório</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-configurar-e-executar-cliente">Client user</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔖-dúvidas">Dúvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Licença</a>
-</p>
-
 <div align="center" >
   <img alt="License" src="./capas/01.png" width="60%" display="flex" gap="5px" >
   <img alt="License" src="./capas/02.png" width="60%" display="flex" gap="5px" >
@@ -44,11 +34,11 @@ Um jogo da memória é um desafio mental onde os jogadores revelam cartas empare
 
 ## 💻 Clone e acesse o projeto
 ------------
-    `https://github.com/ivanbs14/FoodExplore_Front.git`
+    `https://github.com/ivanbs14/App_memory.git`
 
     or 
 
-    `gh repo clone ivanbs14/FoodExplore_Front`
+    `gh repo clone ivanbs14/App_memory`
 
 ## 💻 Configurar e executar cliente
 
