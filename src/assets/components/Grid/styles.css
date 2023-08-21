@@ -1,0 +1,56 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    position: relative;
+}
+
+.winner {
+    position: absolute;
+    width: 68rem;
+    z-index: 1;
+    left: 4rem;
+    margin-top: 15rem;
+}
+
+.text {
+    padding: 2rem 0;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 4.6rem;
+    color: var(--color-text-dark);
+}
+
+p {
+    margin-top: 1rem;
+}
+
+.btn {
+    width: 30rem;
+    height: 3rem;
+    margin-top: 2rem;
+    font-family: 'VT323', monospace;
+    font-size: 2.2rem;
+}
+
+@media (width: 768px) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 375px) {
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
+    .winner {
+        width: 29.5rem;
+        z-index: 1;
+        margin-top: 15rem;
+    }
+}
